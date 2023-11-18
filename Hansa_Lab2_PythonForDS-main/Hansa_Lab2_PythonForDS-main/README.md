@@ -1,4 +1,4 @@
-# SnehalKulkarni_Lab2_PythonForDS
+# Hansa_Lab2_PythonForDS
 
 
 The dataset contains information about the 244 orders served at a restaurant in the United States. Each observation includes the factors related to the order like total bill, time, the total number of people in a group, gender of the person paying for the order and so on.
